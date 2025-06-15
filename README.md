@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mquiss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mquiss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mquiss&border_radius=0&background=212830&stroke=ffa3c7&ring=ffa3c7&fire=ffa3c7&currStreakNum=ffa3c7&sideNums=ffa3c7&currStreakLabel=ffa3c7&sideLabels=ffa3c7&dates=d1a7b7&excludeDaysLabel=d1a7b7&hide_border=true" alt="gitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mquiss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&border_radius=0&bg_color=212830&title_color=ffa3c7&text_color=d1a7b7&icon_color=ffa3c7&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
