@@ -1,8 +1,27 @@
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=mquiss&border_radius=0&date_format=n%2Fj%5B%2FY%5D&background=161a21&stroke=ffa3c7&ring=e34c27&fire=e34c27&currStreakNum=f1e05a&sideNums=ffa3c7&currStreakLabel=ffa3c7&sideLabels=ffa3c7&dates=d1a7b7&excludeDaysLabel=d1a7b7&hide_border=true" alt="gitHub streak" height="133" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mquiss&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&border_radius=0&bg_color=161a21&text_color=ffa3c7&icon_color=ffa3c7&hide_border=true" height="133" alt="languages graph"  />
-  <img src="stressed-out-hamster.gif" height="132" alt="hamster" />
+<picture>
+  <source 
+    srcset="https://streak-stats.demolab.com?user=mquiss&border_radius=0&date_format=n%2Fj%5B%2FY%5D&background=161a21&stroke=ffa3c7&ring=e34c27&fire=e34c27&currStreakNum=f1e05a&sideNums=ffa3c7&currStreakLabel=ffa3c7&sideLabels=ffa3c7&dates=fcccd7&excludeDaysLabel=fcccd7&hide_border=true"
+    media="(prefers-color-scheme: dark), (prefers-color-schene: no-preference)"
+    />
+  <source
+    srcset="https://streak-stats.demolab.com?user=mquiss&border_radius=0&date_format=n%2Fj%5B%2FY%5D&background=fcccd7&stroke=f9778e&ring=e34c27&fire=e34c27&currStreakNum=f9778e&sideNums=f9778e&currStreakLabel=f9778e&sideLabels=f9778e&dates=f9778e&excludeDaysLabel=f9778e&hide_border=true"
+    media="(prefers-color-scheme: light)"
+    />
+  <img src="https://streak-stats.demolab.com?user=mquiss" alt="gitHub streak" height="133" />
+</picture>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mquiss&locale=en&hide_title=true&layout=compact&langs_count=5&border_radius=0&bg_color=161a21&text_color=ffa3c7&hide_border=true"
+    media="(prefers-color-scheme: dark), (prefers-color-schene: no-preference)"
+    />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mquiss&locale=en&hide_title=true&layout=compact&langs_count=5&border_radius=0&bg_color=fcccd7&text_color=f9778e&hide_border=true"
+    media="(prefers-color-scheme: light)"
+    />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mquiss" alt="gitHub stats" height="133" />
+</picture>
+<img src="stressed-out-hamster.gif" height="132" alt="hamster" />
 </div>
 
 ###
